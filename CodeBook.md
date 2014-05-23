@@ -9,3 +9,7 @@
 ######test_data_subjects
 ######features
 ######activity_labels
+######Data frame for keeping the merged data that contains subjects and descriptions for each observation
+######merged_data_mean_sdt_labled_subjects_des
+######The tidy data set
+######new_tidy_data
