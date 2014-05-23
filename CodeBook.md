@@ -1,6 +1,11 @@
 ####CodeBook
 ######---------variables-----------------------------------------------------------------------------------------------------
-##data frames list for keeping the data of test and train sets
-#####train_data
-#####train_data_labels
-#####train_data_subjects
+#####Data frames for keeping the data of test and train sets
+######train_data
+######train_data_labels
+######train_data_subjects
+######test_data
+######test_data_labels
+######test_data_subjects
+######features
+######activity_labels
