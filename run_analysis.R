@@ -57,6 +57,6 @@
         ,FUN = "mean")
 
     
- #  writing merge data into a file
+ #  writing tidy  data into a file
   write.table(new_tidy_data,"new_tidy_data.txt",col.names=TRUE,row.names=FALSE) 
  
